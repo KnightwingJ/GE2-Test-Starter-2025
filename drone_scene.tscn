@@ -43,7 +43,7 @@ mesh = SubResource("PlaneMesh_qhlfa")
 shape = SubResource("WorldBoundaryShape3D_jgr37")
 
 [node name="Marker3D" type="Marker3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0422196, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.00733355, 0)
 script = ExtResource("1_qhlfa")
 drone_body = ExtResource("2_jgr37")
 
